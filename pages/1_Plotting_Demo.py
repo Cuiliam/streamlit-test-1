@@ -1,3 +1,4 @@
+'''
 # Copyright (c) Streamlit Inc. (2018-2022) Snowflake Inc. (2022)
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -54,3 +55,4 @@ Streamlit. We're generating a bunch of random numbers in a loop for around
 plotting_demo()
 
 show_code(plotting_demo)
+'''
